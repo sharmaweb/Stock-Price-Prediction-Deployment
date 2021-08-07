@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri July 20 12:50:04 2021
-@author: Chandra chud singh chundawat
-"""
+
+
 
 
 import numpy as np
@@ -25,7 +23,7 @@ def main():
 	st.title("Stock Price Prediction(Apple)")
 	html_temp = """
 	<div style="background-color:rgb(97,64,239);padding:10px">
-	<h2 style="color:rgb(255, 255, 255);text-shadow: 0 4px 10px rgba(0, 0, 0, 0.603);text-align:center;">Apple Inc. Predicted CLosed Price</h2>
+	<h2 style="color:rgb(255, 255, 255);text-shadow: 0 4px 10px rgba(0, 0, 0, 0.603);text-align:center;">Apple Inc. Predicted CLosed Price<h6>(Kumar Akhil)</h6></h2>
 	</div>
 	"""
 
